@@ -50,7 +50,7 @@ This repository is a comprehensive collection of Python projects that cover fund
 - **Project 1:** Snake, Water, Gun Game - A fun game project to apply basic Python skills.
 - **Project 2:** The Perfect Guess - A number guessing game to practice logic and functions.
 - **MEGA Project 1:** Jarvis - An AI assistant with various features.
-- **MEGA Project 2:** Auto Reply AI Chatbot - A chatbot with auto-reply capabilities
+- **MEGA Project 2:** Auto Reply AI Chatbot - A chatbot with auto-reply capabilities.
 
 ## Getting Started
 
