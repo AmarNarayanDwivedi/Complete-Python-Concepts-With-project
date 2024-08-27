@@ -1,4 +1,4 @@
-#A class is a blueprint for creating object. 
+#A class is a blueprint for creating object..
 
 #An object is an instantiation of a class. When class is defined, a template (info) is defined. Memory is allocated only after object instantiation. 
 
